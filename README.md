@@ -1,2 +1,2 @@
 # Homebrew-Radar
-A homebrew tap for all things RadarRelay
+A homebrew tap for all things RadarRelay.
