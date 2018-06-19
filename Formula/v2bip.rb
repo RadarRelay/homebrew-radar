@@ -1,4 +1,4 @@
-class v2bip < Formula
+class V2bip < Formula
   desc "v2bip allows for converting Vault unseal keys into easy to remember bip39 phrases"
   homepage "https://github.com/RadarRelay/v2bip"
   url "https://github.com/RadarRelay/v2bip/archive/v0.1.tar.gz"
