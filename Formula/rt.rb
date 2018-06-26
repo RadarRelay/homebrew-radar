@@ -1,8 +1,8 @@
 class Rt < Formula
   desc "A tool to install the rt tool from it's private repository."
   homepage ""
-  url "https://github.com/RadarRelay/rt-installer/archive/v0.7.2.tar.gz"
-  sha256 "1e74a02d76a8dc3ed7a6e6e2c1be346fb256e43533fa936aeb8d566f52f84420"
+  url "https://github.com/RadarRelay/rt-installer/archive/v0.8.0.tar.gz"
+  sha256 "063f3314e922e4f2a55369a5e65e5ca82f605dcd69a7d15fa55c259acc5a449f"
 
   def install
     ENV.deparallelize  
