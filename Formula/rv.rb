@@ -1,9 +1,9 @@
 class Rv < Formula
   desc ""
   homepage "https://github.com/radartech/rv"
-  url "https://rv.vault.rdr.sh/rv-v0.6.1/rv-v0.6.1-darwin-x64.tar.gz"
-  sha256 "fa67d8d874ba97147adf0a98dba683e8bd9cbee659423e58cf6bce0ca485bb7e"
-  version "v0.6.1"
+  url "https://rv.vault.rdr.sh/rv-v0.6.2/rv-v0.6.2-darwin-x64.tar.gz"
+  sha256 "887929ecd53376a3960754d0827a0f46f753537280fff7e0c0728f4bee77279c"
+  version "v0.6.2"
 
   def install
 	share.mkpath
