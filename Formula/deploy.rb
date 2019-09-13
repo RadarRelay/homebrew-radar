@@ -1,4 +1,4 @@
-class Deploy < Formula
+class DeployCli < Formula
     desc "A CLI tool to manage your RADAR DEPLOY resources"
     homepage "https://deploy.radar.tech"
     url "https://cli-prod-deploy.s3.us-east-2.amazonaws.com/deploy-v0.1.9/deploy-v0.1.9-darwin-x64.tar.gz"
